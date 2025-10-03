@@ -91,4 +91,5 @@ Acknowledgments
 Data Source: Kaggle’s Walmart Sales Dataset
 Inspiration: Walmart’s business case studies on sales and supply chain optimization.
 
-- **LinkedIn**: [Connect with me professionally]((https://www.linkedin.com/in/lakshmipathim/))
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lakshmipathim/)
+
